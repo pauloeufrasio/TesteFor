@@ -5,7 +5,7 @@ public class TesteFor {
         Scanner sc = new Scanner(System.in);
         int fator = 0;
         int multiplicação=0;
-        System.out.println("Digite o Valor do Fator: ");
+        System.out.print("Digite a tabuada desejada: ");
         fator = sc.nextInt();
 
         for (int i = 1; i <= 10; i++){
